@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Flips</string>
+    <string name="Hello">Привет Данил</string>
+
 </resources>
